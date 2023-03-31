@@ -1,1 +1,1 @@
-# strapi-api
+# Strapi API
